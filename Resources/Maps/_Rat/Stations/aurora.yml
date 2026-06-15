@@ -82518,7 +82518,7 @@ entities:
   - uid: 302
     components:
     - type: MetaData
-      name: Knight-Bannerette Dorms
+      name: Knight Banneret Dorms
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -9.5,37.5
@@ -82526,7 +82526,7 @@ entities:
   - uid: 303
     components:
     - type: MetaData
-      name: Knight-Bannerette Dorms
+      name: Knight Banneret Dorms
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -13.5,37.5
